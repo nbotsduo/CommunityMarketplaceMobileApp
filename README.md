@@ -17,4 +17,8 @@ Community Marketplace Mobile Application is an Android Mobile Application that w
 - Storage: Firebase Storage
 - Language: Kotlin
 
-## Screenshot
+## Sample Screenshot
+![Main Page](https://github.com/nbotsduo/CommunityMarketplaceMobileApp/blob/main/image/Screenshot_20220113_000521_com.example.communitymarketplace.jpg)
+![Community News](https://github.com/nbotsduo/CommunityMarketplaceMobileApp/blob/main/image/Screenshot_20220113_000236_com.example.communitymarketplace.jpg)
+![Community Forum](https://github.com/nbotsduo/CommunityMarketplaceMobileApp/blob/main/image/Screenshot_20220113_000333_com.example.communitymarketplace.jpg)
+![Community Marketplace](https://github.com/nbotsduo/CommunityMarketplaceMobileApp/blob/main/image/Screenshot_20220113_000434_com.example.communitymarketplace.jpg)
