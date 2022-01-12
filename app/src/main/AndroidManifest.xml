@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.communitymarketplace">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CommunityMarketplace">
+        <activity
+            android:name=".community.forum.ViewTopicForumActivity"
+            android:exported="false" />
+        <activity
+            android:name=".community.forum.CreateTopicForumActivity"
+            android:exported="false" />
+        <activity
+            android:name=".community.forum.ViewForumMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.seller.ViewOrderDetailsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.seller.OrderListSellerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.customer.OrderProdStatusCustActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.customer.OrderListCustActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.customer.OrderConfirmCustActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.OrderMenuCustActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.SearchProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.SellerProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.ViewProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.seller.EditProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.seller.SellerMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.seller.ProductListSellerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.seller.ViewProductSellerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".settings.EditProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".settings.AppSettingsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.seller.CreateNewProductActivity"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace.MaiynActivity"
+            android:exported="false" />
+        <activity
+            android:name=".community.chat.SelectMemberChatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".community.chat.ViewMessagesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".community.chat.ChatLogActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginRegister.JoinCommunityActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginRegister.CommunityIntroductionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".community.news.ViewNewsArticleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".community.news.AddNewsActivity"
+            android:exported="true" />
+        <activity
+            android:name=".community.news.ViewNewsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".menu.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".menu.MarketplaceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".menu.CommunityActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".loginRegister.CongratsAccActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginRegister.CreateCommunityActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".loginRegister.JoinCommunityActivity" />
+        </activity>
+        <activity
+            android:name=".testActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginRegister.SetupAccountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginRegister.SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".loginRegister.LoginActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

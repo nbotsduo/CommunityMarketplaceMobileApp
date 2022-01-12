@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="150dp"
+    android:layout_height="220dp"
+    android:layout_margin="10dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="8dp"
+    >
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:id="@+id/img_SearchMarket"
+            android:src="@drawable/undraw_join_of2w"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_SearchProductName"
+            android:text="Name"
+            android:textSize="21sp"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/roboto_bold"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_SearchProductPrice"
+            android:text="Rm 0.00"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="10dp"
+            />
+
+<!--        <TextView-->
+<!--            android:id="@+id/txt_searchDistance"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="5dp"-->
+<!--            android:layout_marginRight="10dp"-->
+<!--            android:layout_marginBottom="10dp"-->
+<!--            android:text="distance"-->
+<!--            android:textAlignment="viewEnd"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:textSize="15dp" />-->
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.cardview.widget.CardView>

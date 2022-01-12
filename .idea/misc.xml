@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/cardview_news.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_baseline_people_24s.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/rounded_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/rounded_edittext_register_login.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/rounded_edttxt.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/rounded_from_row.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/rounded_menu.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/rounded_select_photo_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/drawable/selector.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_add_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_app_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_chat_log.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_community.xml" value="0.5297215951843491" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_community_introduction.xml" value="0.33" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_congrats.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_congrats_acc.xml" value="0.33" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_create_community.xml" value="0.2849002849002849" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_create_new_product.xml" value="0.2992194275802255" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_create_topic_forum.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_edit_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_edit_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_join_community.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_latest_messages.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_main2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_marketplace.xml" value="0.33" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_new_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_order_confirm_cust.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_order_list_cust.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_order_list_seller.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_order_menu_cust.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_order_prod_status_cust.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_order_product_status.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_product_list_seller.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_search_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_select_member_chat.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_seller_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_seller_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_seller_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_setup_account.xml" value="0.365036231884058" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_social.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_test.xml" value="0.3435185185185185" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_text.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_forum_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_messages.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_news_article.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_order_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_product_seller.xml" value="0.33" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/activity_view_topic_forum.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/cardview_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/chat_from_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/chat_to_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/dialog_addproduct.xml" value="0.33" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/dialog_searchfilter.xml" value="0.7357320099255583" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/fragment_order.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/fragment_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/latest_message_row.xml" value="0.25" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/layout_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/list_statusproduct.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/post_from_others.xml" value="0.33" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/post_from_user.xml" value="0.33" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/row_forum_topic.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/row_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/row_item_comnews.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/row_item_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/row_order_cust.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/row_product_seller.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/searchmarket_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/layout/user_row_new_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/menu/view_product_seller_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/menu/viewnews_top_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AndroidStudioProjects/CommunityMarketplace/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+        <entry key="..\:/Users/Naim/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

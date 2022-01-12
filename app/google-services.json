@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90994709805",
+    "project_id": "community-marketplace-98008",
+    "storage_bucket": "community-marketplace-98008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90994709805:android:65efbaeafb18a1ed38efa4",
+        "android_client_info": {
+          "package_name": "com.example.communitymarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90994709805-jrb969g79lh60d1182kaluvfqdg8t2bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0xOh32-qat680dyjHfY42EsIKubA_z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90994709805-jrb969g79lh60d1182kaluvfqdg8t2bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
